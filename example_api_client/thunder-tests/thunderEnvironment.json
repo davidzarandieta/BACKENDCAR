@@ -1,0 +1,56 @@
+[
+  {
+    "_id": "3ab313eb-49bf-46c6-983b-db57b84b201f",
+    "name": "DeliverUS",
+    "default": true,
+    "sortNum": 10000,
+    "created": "2021-07-24T16:26:46.306Z",
+    "modified": "2022-04-20T13:42:18.355Z",
+    "data": [
+      {
+        "name": "base_url",
+        "value": "http://localhost:3000"
+      },
+      {
+        "name": "token",
+        "value": "26c66cb8e303acbcd3615bb715f9f5441bc556ed"
+      },
+      {
+        "name": "last_created_restaurant",
+        "value": "11"
+      },
+      {
+        "name": "last_created_order",
+        "value": "172"
+      },
+      {
+        "name": "last_created_product",
+        "value": "1404"
+      },
+      {
+        "name": "customerToken",
+        "value": "e45345fcd89860e6eaf900712279fe0baeed4468"
+      },
+      {
+        "name": "customerEmail",
+        "value": "Dickinson.00d11af7911a@gmail.com"
+      },
+      {
+        "name": "customerPassword",
+        "value": "secret"
+      },
+      {
+        "name": "orderAddress",
+        "value": "Mi dirección nº1"
+      },
+      {
+        "name": "customerId",
+        "value": "100"
+      },
+      {
+        "name": "ownerToken",
+        "value": "7aded193ab8e04bee6917ba332e2b8e211d0f707"
+      }
+    ]
+  }
+]
